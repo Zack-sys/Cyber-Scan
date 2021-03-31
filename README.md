@@ -1,4 +1,4 @@
-### 𝐂𝐲𝐛𝐞𝐫-𝐒𝐜𝐚𝐧
+### ༒︎᯾𝐂𝐲𝐛𝐞𝐫-𝐒𝐜𝐚𝐧᯾༒︎
 
 > CyberScan is an open source penetration testing tool   
 
@@ -8,7 +8,7 @@
 
 > (latitude, longitude , region , country ...)  
 
-### 𝙸𝙽𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :
+### ✰𝙸𝙽𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ :
 ```
 $ apt update && apt upgrade  
 ```
@@ -28,7 +28,7 @@ $ git clone https://github.com/medbenali/CyberScan.git
 $ cd CyberScan  
 ```
 
-### 𝚄𝚜𝚊𝚐𝚎 : 
+### ✰𝚄𝚜𝚊𝚐𝚎✰ : 
 ```
 $ python2 CyberScan.py -v 
 ```
@@ -49,3 +49,6 @@ $ python2 CyberScan -s 192.168.1.0/24 -p arp
 $ CyberScan -s 192.168.1.105 -p tcp -d 80  
 ```
 > 192.168.1.105 = target IP. <
+
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of CyberScan for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
